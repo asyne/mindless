@@ -4,6 +4,8 @@ Chrome 59 gets cross-platform Headless mode support. Chrome Headless is already 
 
 For now, there is one example of use in this repository – capturing screenshots for different platforms (Desktop, Mobile & Tablet) using Headless Chrome. But more may appear later, contributions are always welcome.
 
+You could [read Chrome announcement post](https://developers.google.com/web/updates/2017/04/headless-chrome) for more generic use cases on Headless mode.
+
 ### Running with Docker
 
 ```sh
