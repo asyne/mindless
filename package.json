@@ -6,7 +6,7 @@
   "author": "Evan <evan.inout@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chrome-remote-interface": "^0.22.0",
+    "chrome-remote-interface": "^0.28.1",
     "minimist": "^1.2.0"
   }
 }
